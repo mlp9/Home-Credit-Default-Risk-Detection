@@ -1,7 +1,7 @@
 # Home-Credit-Default-Risk-Detection
 Home Credit risk has been a prevalent concern in the housing sector for decades. Credit risk is defined as “the possibility of a loss resulting from a borrower’s failure to repay a loan or meet contractual obligations.” This risk is especially important in the housing and financial sector where a default can result in a financial institution not being paid back. That can result in the financial institution not being able to meet their own obligations or carry out their own operations. In addition to financial loss, defaults can also result in the financial institution not extending credit to other borrowers, which can have a broader impact on the economy.
 
-Our team, , has acquired data about various credit cases from Kaggle, an online data science competition facilitator and data repository. 
+Our team, The Map Reducers, has acquired data about various credit cases from Kaggle, an online data science competition facilitator and data repository. 
 
 # 1) ETL 
 The first thing our team did was build an ETL pipeline before we could analyze our data. We began our data extraction by extracting our data from Kaggle. We used Google Colab as our development environment. 
